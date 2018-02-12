@@ -1,1 +1,1 @@
-include ':app', ':WebViewOverlayVCX'
+include ':app', ':TestingModule'

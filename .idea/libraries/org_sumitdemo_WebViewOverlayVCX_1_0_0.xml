@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.sumitdemo:WebViewOverlayVCX-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.sumitdemo/WebViewOverlayVCX/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.sumitdemo/WebViewOverlayVCX/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sumitdemo/WebViewOverlayVCX/1.0.0/6eadebc5fc0605df71188363bbe885c0d4fcfd3e/WebViewOverlayVCX-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
